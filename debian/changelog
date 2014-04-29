@@ -1,0 +1,5 @@
+vx-kiosk-firefox (1.0-1) unstable; urgency=low
+
+  * Se configura como página de inicio www.zaragoza.es
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Tue, 29 Apr 2014 07:46:41 +0100

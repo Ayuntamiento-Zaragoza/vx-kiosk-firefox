@@ -1,0 +1,16 @@
+Source: vx-kiosk-firefox
+Section: web
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux-kiosk/vx-kiosk-firefox
+
+Package: vx-kiosk-firefox
+Architecture: all
+Provides: vx-virtual-firefox
+Conflicts: vx-virtual-firefox
+Replaces: vx-virtual-firefox
+Depends: ${misc:Depends}, firefox
+Description: Configuration for Mozilla Firefox browser (Kiosk project)
+ Set homepage setting.
