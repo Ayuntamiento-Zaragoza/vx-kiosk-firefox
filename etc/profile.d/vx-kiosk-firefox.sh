@@ -1,0 +1,1 @@
+export NSS_DEFAULT_DB_TYPE=sql
