@@ -1,3 +1,12 @@
+vx-kiosk-firefox (1.2-1) unstable; urgency=low
+
+  * Se configuran favoritos a nivel de sistema (propiedad
+    browser.bookmarks.file).
+  * Se configura el layout de la aplicación (que muestre la barra de menú y la
+    de favoritos) en el archivo xulstore.json (a partir de Firefox 34).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Fri, 5 Jun 2015 09:22:41 +0100
+
 vx-kiosk-firefox (1.1-1) unstable; urgency=low
 
   * Se añaden más propiedades obligatorias a la configuración de Firefox
