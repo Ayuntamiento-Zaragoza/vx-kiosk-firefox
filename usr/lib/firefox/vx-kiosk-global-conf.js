@@ -12,6 +12,6 @@ lockPref("datareporting.policy.dataSubmissionPolicyAccepted", true);
 lockPref("datareporting.policy.firstRunTime", "1414756699538");
 lockPref("extensions.update.enabled", false);
 lockPref("toolkit.crashreporter.enabled", false);
-lockPref("toolkit.telemetry.prompted", 2);
+lockPref("toolkit.telemetry.prompted", false);
 lockPref("toolkit.telemetry.rejected", true);
 lockPref("toolkit.telemetry.enabled", false);
