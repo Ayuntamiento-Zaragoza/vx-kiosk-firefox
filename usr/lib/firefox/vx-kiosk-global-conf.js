@@ -3,7 +3,7 @@ lockPref("app.update.enabled", false);
 lockPref("browser.bookmarks.file", "/usr/lib/firefox/defaults/pref/bookmarks.html");
 lockPref("browser.rights.3.shown", true);
 lockPref("browser.search.update", false);
-lockPref("browser.startup.homepage", "http://www.zaragoza.es/");
+lockPref("browser.startup.homepage", "http://www.zaragoza.es/ciudad/sectores/mayores/comercio-amigable.htm");
 lockPref("browser.startup.homepage_override.mstone", "ignore");
 lockPref("datareporting.healthreport.service.enabled", false);
 lockPref("datareporting.healthreport.service.firstRun", false);
