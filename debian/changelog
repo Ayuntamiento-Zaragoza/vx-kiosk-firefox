@@ -1,3 +1,14 @@
+vx-kiosk-firefox (1.5-1) unstable; urgency=low
+
+  * Se evita que salga el mensaje de qué compartir.
+  * Se añade una propiedad para no enviar informes de error automáticamente a
+    Mozilla.
+  * Se desactiva la barra de estado que pide qué compartir con la fundación
+    Mozilla.
+  * Se habilita por defecto el plugin de Flash.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Tue, 23 Jan 2018 12:59:41 +0100
+
 vx-kiosk-firefox (1.4-1) unstable; urgency=low
 
   * Se cambia la pagina de inicio a http://www.zaragoza.es/ciudad/sectores/mayores/comercio-amigable.htm
