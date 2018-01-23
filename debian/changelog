@@ -5,8 +5,9 @@ vx-kiosk-firefox (1.5-1) unstable; urgency=low
     Mozilla.
   * Se desactiva la barra de estado que pide qué compartir con la fundación
     Mozilla.
+  * Se habilita por defecto el plugin de Flash.
 
- -- Jose Antonio Chavarría <jachavar@gmail.com>  Mon, 22 Jan 2018 13:32:41 +0100
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Tue, 23 Jan 2018 12:59:41 +0100
 
 vx-kiosk-firefox (1.4-1) unstable; urgency=low
 
