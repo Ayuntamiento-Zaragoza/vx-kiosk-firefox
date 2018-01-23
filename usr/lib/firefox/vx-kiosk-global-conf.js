@@ -18,4 +18,5 @@ lockPref("toolkit.crashreporter.enabled", false);
 lockPref("toolkit.telemetry.enabled", false);
 lockPref("toolkit.telemetry.prompted", false);
 lockPref("toolkit.telemetry.rejected", true);
+defaultPref("plugin.state.flash", 2);
 defaultPref("toolkit.telemetry.reportingpolicy.firstRun", false);
